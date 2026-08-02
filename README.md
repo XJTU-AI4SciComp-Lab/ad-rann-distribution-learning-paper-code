@@ -1,4 +1,4 @@
-# AD-RaNN
+# AD-RaNN-Distribution-Learning-Paper-Code
 
 [![DOI](https://zenodo.org/badge/1319973836.svg)](https://doi.org/10.5281/zenodo.21759015)
 [![Paper](https://img.shields.io/badge/arXiv-2604.23999-b31b1b.svg)](https://arxiv.org/abs/2604.23999)
@@ -20,7 +20,7 @@ by You Yang and Fei Wang.
 - **Paper:** [arXiv:2604.23999](https://arxiv.org/abs/2604.23999)
 - **Corresponding author:** Fei Wang (`feiwang.xjtu@xjtu.edu.cn`)
 - **Code maintainer:** You Yang
-- **Repository:** [XJTU-AI4SciComp-Lab/ad-rann-paper-code](https://github.com/XJTU-AI4SciComp-Lab/ad-rann-paper-code)
+- **Repository:** [XJTU-AI4SciComp-Lab/ad-rann-distribution-learning-paper-code](https://github.com/XJTU-AI4SciComp-Lab/ad-rann-distribution-learning-paper-code)
 
 ## Method Summary
 

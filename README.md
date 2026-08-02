@@ -138,3 +138,6 @@ The machine-readable citation metadata are available in [`CITATION.cff`](CITATIO
 ## License
 
 This repository is released under the BSD 3-Clause License. See [`LICENSE`](LICENSE).
+## Release
+
+Version 1.0.1 contains minor documentation updates.

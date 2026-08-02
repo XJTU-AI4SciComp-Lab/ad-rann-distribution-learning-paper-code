@@ -12,7 +12,7 @@ authors:
 license: "BSD-3-Clause"
 date-released: "2026-08-02"
 repository-code: "https://github.com/XJTU-AI4SciComp-Lab/ad-rann-distribution-learning-paper-code"
-version: "1.0.2"
+version: "1.0.3"
 keywords:
   - randomized neural networks
   - partial differential equations

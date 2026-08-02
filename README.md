@@ -1,7 +1,10 @@
-# Adaptive-Distribution Randomized Neural Networks for PDEs
+# AD-RaNN
 
+[![DOI](https://zenodo.org/badge/1319973836.svg)](https://doi.org/10.5281/zenodo.21759015)
 [![Paper](https://img.shields.io/badge/arXiv-2604.23999-b31b1b.svg)](https://arxiv.org/abs/2604.23999)
 [![License](https://img.shields.io/badge/License-BSD--3--Clause-blue.svg)](LICENSE)
+
+Official MATLAB implementation of **Adaptive-Distribution Randomized Neural Networks (AD-RaNN)** for PDE solving and operator learning.
 
 This repository contains the MATLAB implementation and numerical experiments for the paper:
 
@@ -42,7 +45,7 @@ AD-RaNN adapts a low-dimensional parameterization of the hidden-feature sampling
 
 ## Requirements
 
-- MATLAB R2022b or later is recommended.
+- MATLAB R2024b or later is recommended.
 - Some experiments can optionally use a supported NVIDIA GPU through MATLAB.
 - Large operator-learning datasets are not included in the repository; see [`data/README.md`](data/README.md).
 

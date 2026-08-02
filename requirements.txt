@@ -1,0 +1,11 @@
+MATLAB requirements
+
+Required:
+- MATLAB R2024b or later
+
+Optional:
+- Parallel Computing Toolbox for GPU-enabled experiments
+
+Notes:
+- No Python or Conda environment is required.
+- Large operator-learning datasets are documented in data/README.md.

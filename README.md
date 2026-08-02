@@ -34,6 +34,7 @@ AD-RaNN adapts a low-dimensional parameterization of the hidden-feature sampling
 |-- LICENSE
 |-- CITATION.cff
 |-- MANIFEST.md
+|-- requirements.txt
 |-- src/                  Reusable MATLAB source code
 |-- examples/             Minimal single-seed Poisson example
 |-- experiments/          Full numerical and reproduction experiments
@@ -44,12 +45,13 @@ AD-RaNN adapts a low-dimensional parameterization of the hidden-feature sampling
 ```
 
 ## Requirements
+MATLAB requirements
 
-- MATLAB R2024b or later is recommended.
-- Some experiments can optionally use a supported NVIDIA GPU through MATLAB.
-- Large operator-learning datasets are not included in the repository; see [`data/README.md`](data/README.md).
+Required:
+- MATLAB R2024b or later
 
-The exact MATLAB release and required toolboxes can depend on the selected experiment. Record the tested environment before reproducing a full paper result.
+Optional:
+- Parallel Computing Toolbox for GPU-enabled experiments
 
 ## Quick Start
 

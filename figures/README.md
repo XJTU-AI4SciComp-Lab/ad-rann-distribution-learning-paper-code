@@ -1,25 +1,16 @@
 # Figures
 
-This directory stores figures generated from numerical data in `results/`.
+This directory contains figures used in the paper and figures generated from
+the numerical experiments.
 
-The recommended workflow is:
-
-1. Run an experiment under `experiments/`.
-2. Load its saved `.mat` or `.csv` file from `results/`.
-3. Run the corresponding plotting script.
-4. Save the generated figure under `figures/generated/<experiment>/`.
-
-For example, the nonlinear sharp-layer plotting workflow uses the result files under:
+## Directory structure
 
 ```text
-results/nonlinear_sharp_layer/PDAD/
-results/nonlinear_sharp_layer/DDAD/
-```
-
-and the plotting routines associated with:
-
-```text
-experiments/nonlinear_sharp_layer/
-```
-
-Generated figures are not committed by default. Selected final paper figures may be added manually when needed.
+figures/
+|-- paper_figures/                 Final figures used in the manuscript
+|-- plt_example/
+|   `-- nonlinear_layer_growth/    Example figures generated from numerical results
+|-- PBI.png                        Illustration used in the paper
+|-- RNN.png                        Randomized neural network illustration
+|-- RaNN-DeepONet.pdf              RaNN-DeepONet architecture illustration
+`-- README.md

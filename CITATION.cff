@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the corresponding paper."
+title: "Adaptive-Distribution Randomized Neural Networks for PDEs: A Low-Dimensional Distribution-Learning Framework"
+authors:
+  - family-names: Yang
+    given-names: You
+    affiliation: "School of Mathematics and Statistics, Xi'an Jiaotong University"
+  - family-names: Wang
+    given-names: Fei
+    email: "feiwang.xjtu@xjtu.edu.cn"
+    affiliation: "School of Mathematics and Statistics, Xi'an Jiaotong University"
+license: BSD-3-Clause
+date-released: 2026-08-02
+repository-code: "https://github.com/XJTU-AI4SciComp-Lab/ad-rann-paper-code"
+keywords:
+  - randomized neural networks
+  - partial differential equations
+  - adaptive distribution learning
+  - operator learning
+preferred-citation:
+  type: article
+  title: "Adaptive-Distribution Randomized Neural Networks for PDEs: A Low-Dimensional Distribution-Learning Framework"
+  authors:
+    - family-names: Yang
+      given-names: You
+    - family-names: Wang
+      given-names: Fei
+  year: 2026
+  identifiers:
+    - type: url
+      value: "https://arxiv.org/abs/2604.23999"
+      description: "arXiv:2604.23999"

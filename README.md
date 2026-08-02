@@ -127,7 +127,7 @@ run("tests/run_extended_tests.m")
 If you use this code, please cite the paper:
 
 ```bibtex
-@marticle{yang2026adrann,
+@article{yang2026adrann,
   title         = {Adaptive-Distribution Randomized Neural Networks for PDEs: A Low-Dimensional Distribution-Learning Framework},
   author        = {Yang, You and Wang, Fei},
   year          = {2026},

@@ -35,6 +35,7 @@ AD-RaNN adapts a low-dimensional parameterization of the hidden-feature sampling
 |-- CITATION.cff
 |-- MANIFEST.md
 |-- requirements.txt
+|-- setup.m
 |-- src/                  Reusable MATLAB source code
 |-- examples/             Minimal single-seed Poisson example
 |-- experiments/          Full numerical and reproduction experiments

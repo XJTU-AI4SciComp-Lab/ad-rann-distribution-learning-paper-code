@@ -95,10 +95,10 @@ set(gca, ...
     'FontSize',12, ...
     'LineWidth',1);
 
-% 独立自动色标
+
 clim('auto');
 
-% 只保留 colorbar 数值，不加右侧文字
+
 colorbar;
 
 exportgraphics( ...
@@ -144,10 +144,10 @@ set(gca, ...
     'FontSize',12, ...
     'LineWidth',1);
 
-% 独立自动色标
+
 clim('auto');
 
-% 只保留 colorbar 数值，不加右侧文字
+
 colorbar;
 
 exportgraphics( ...
